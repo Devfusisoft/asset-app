@@ -5,3 +5,4 @@ Please, let me know
 I hope you enjoyed the class today
 Catch up class today
 I hope you are loving it guys
+added email notification
